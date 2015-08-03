@@ -1,7 +1,7 @@
 ---
 layout: page
 image: /public/gaurav.jpg
-title: !! About Me !!
+title: About Me !!
 ---
 
 <p class="message">
