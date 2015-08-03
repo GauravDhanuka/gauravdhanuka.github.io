@@ -204,6 +204,7 @@ a.sidebar-nav-item:focus {
 .sidebar-checkbox {
   position: absolute;
   opacity: 0;
+  display: none;
   -webkit-user-select: none;
      -moz-user-select: none;
           user-select: none;
@@ -215,7 +216,7 @@ a.sidebar-nav-item:focus {
   top:  .8rem;
   left: 1rem;
   display: block;
-  padding: .25rem .75rem;
+  padding: .5rem .65rem;
   color: #505050;
   background-color: #fff;
   border-radius: .25rem;
@@ -237,7 +238,7 @@ a.sidebar-nav-item:focus {
 #sidebar-checkbox:focus ~ .sidebar-toggle,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
   color: #fff;
-  background-color: #555;
+  background-color: #505050;
 }
 
 .sidebar-toggle:active:before,
