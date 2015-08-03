@@ -16,9 +16,9 @@ Previously, I learned C language as per my academics requirements. But, when I s
 
 Further, I learned *Ruby on Rails*. I started developing web-applications. Developing Web-apps was an awesome experience.
 
-<p class="message">
-	Loves an open source and free software. Mostly, Inspired by a software programmer(big bro to me) [Aruz Parazuli](https://twitter.com/aruzmeister) and an awesome person *"Makenzie Child"*.
-</p>
+
+Loves an open source and free software. Mostly, Inspired by a software programmer(big bro to me) [Aruz Parazuli](https://twitter.com/aruzmeister) and an awesome person *"Makenzie Child"*.
+
 
 As to my academics study, I am pursuing my undergraduate study in Computer Science and Engineering from National Institute of Technology, Allahabad(Third year).
 
