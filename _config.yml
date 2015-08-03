@@ -1,15 +1,16 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
+markdown:            redcarpet
+pygments:            true
+
 permalink:           pretty
 relative_permalinks: true
 
 # Setup
 title:               Gaurav Dhanuka
-tagline:             'Aka: proDroid'
 description:         'Thinker // Designer // Developer'
-url:                 http://lanyon.getpoole.com
-baseurl:             ''
+baseurl:             '/'
 paginate:            5
 
 # About/contact
@@ -19,4 +20,6 @@ author:
   email:             gauravdhanuka2007@gmail.com
 
 # Custom vars
-version:             1.0.0
+version:          1.0.0
+github:
+  repo:               https://github.com/GauravDhanuka
